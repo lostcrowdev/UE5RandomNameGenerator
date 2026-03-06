@@ -1,8 +1,7 @@
 # Random Name Generator - Unreal Engine 5
-
-A lightweight, data-driven random name generator component for Unreal Engine 5.7.  
-Generate realistic or completely new names for NPCs or any actor at runtime.
 <img width="2552" height="1331" alt="2026-03-06 10_16_54-RandomNameGenerator Preview  NetMode_ Standalone 0   (64-bit_PC D3D SM6)" src="https://github.com/user-attachments/assets/8e4bf87a-0891-4af0-bf6c-4e9e1802fbff" />
+
+A lightweight, data-driven random name generator component for Unreal Engine 5.7.
 
 The system supports first, middle, and last names, gender filtering.
 
@@ -15,7 +14,7 @@ The system supports first, middle, and last names, gender filtering.
 - Gender filtering for first and middle names
   - Female
   - Male
-  - Unisex
+  - Neutral
 - Fully data-driven
 - Uses Data Tables so you can easily import custom name lists
 - Component-based
