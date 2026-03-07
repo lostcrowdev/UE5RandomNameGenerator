@@ -11,15 +11,13 @@ The system supports first, middle, and last names, gender filtering.
 
 - Random First, Middle, and Last Name generation
 - Toggle First / Middle / Last names on or off
-- Gender filtering for first and middle names
-  - Female
-  - Male
-  - Neutral
+- Example pre-filled Data Tables for first names (male, female, neutral) and last names.
 - Fully data-driven
 - Uses Data Tables so you can easily import custom name lists
 - Component-based
   - Simply attach the component to any actor
 - Runtime name generation for NPCs or gameplay systems
+- Option to combine names to create new ones (Compound)
 
 ## Setup
 
@@ -42,4 +40,4 @@ Create or import CSV name lists and convert them to Data Tables using the S_Name
 - Replication support for multiplayer
 - Save generated names to save files
 - Automatically add actor tags based on generated names
-- Procedural name generator that creates new names by combining parts of existing ones
+- Fully procedural name generator
